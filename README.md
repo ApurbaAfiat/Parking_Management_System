@@ -1,10 +1,8 @@
 # **Parking-Management-System**
 Project using HTML,CSS,JS and PHP
-
-Parking-Management-System
 Parking Management System is a web-based application that aims to simplify and optimize the parking experience for both users and administrators, and is built using html,css,javascript and PHP. It will prioritize user convenience, effective space utilization and streamlined parking operations through an intuitive and user-friendly interface.
 
-**Table of Contents**
+## **Table of Contents**
 Parking Management System
 Table of Contents
 Features
@@ -13,9 +11,9 @@ Prerequisites
 Installation
 Project Structure
 Technologies Used
-Deployment:
 Contributing
-Features
+
+### Features
  User registration and authentication
  Real-time parking spot availability status
  Entry and Exit Management System
@@ -24,16 +22,13 @@ Features
  Admin panel for managing parking spaces and user accounts
  Analytics and insights to understand user engagement
  Data Security Measures
-Getting Started
+ 
+### Getting Started
 Prerequisites
 Before you begin, ensure you have the following installed:
 
 Xampp: Download
 Git (optional): Download
-Installation
-Clone the repository:
-
-bash git clone https://github.com/TANYASHARMA1809/Parking-Management-System.git cd Parking-Management-System
 
 Install backend dependencies:
 
@@ -79,9 +74,8 @@ Backend:
 
 Php
 Xmapp
-Deployment:
-Netlify: Frontend deployment
-Contributing
+
+Contributing:
 Contributions are welcome! To contribute to this project, follow these steps:
 
 Fork the repository.
